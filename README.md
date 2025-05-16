@@ -1,7 +1,4 @@
-# Browser Extensions Manager UI
-
-[view live site]] (https://browser-extensions-manage-ui.vercel.app/)
-
+Vercel Deployment : (https://browser-extensions-manager-main.vercel.app/)
 ## Project Overview
 
 This project is a user interface for managing browser extensions. It provides a clean and intuitive layout to view, activate, deactivate, and remove browser extensions. The UI supports light and dark themes and allows filtering extensions by their status (All, Active, Inactive).
